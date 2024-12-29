@@ -79,6 +79,7 @@ Most of the bonus bets that linger into the post-campaign week cost the company 
 - 62% of the loss was linked to bonus bets that lingered into the post-campaign period.
 - There’s a huge margin between the pre-campaign profit margin, campaign week, and post-campaign week profit margin.
 
+<img width="395" alt="KPIs" src="https://github.com/user-attachments/assets/3c83225c-ea36-405a-9f96-48bda7e9979c" />
 
 
 ### Bonus Wins: 
